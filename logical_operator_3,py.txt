@@ -1,0 +1,8 @@
+a=13
+b=77
+c=93
+d=63
+e=a>=b
+print(not(e))
+j=c>=d
+print(not(j))
